@@ -4,6 +4,7 @@
 
 이 애플리케이션은 Streamlit과 OpenAI API를 사용하여 임상시험 데이터를 처리하고, CSV 또는 XLSX 파일로부터 데이터를 분석 및 변환하여 HTML, Excel, 그리고 PPT로 출력할 수 있는 도구입니다. 연구 데이터를 시각화하고 GPT를 활용해 추가 정보를 추출합니다.
 
+https://medirama-clinical-gov.streamlit.app/
 ---
 
 ## 주요 기능
